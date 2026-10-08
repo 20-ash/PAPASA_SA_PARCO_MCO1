@@ -1,1 +1,7 @@
 # PAPASA_SA_PARCO_MCO1
+
+## 👥 Group Members 
+*   **COPON, MATTHEW JOSHUA**
+*   **LEE, ASHLEY FIONA SANTOS**
+*   **ONG, EIRESS BASSEY HAO**
+*   **XU, KAI WEN**
